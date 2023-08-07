@@ -5,4 +5,4 @@ PortfolioWebpage is a certification from a course from [FreeCodeCamp](https://ww
 The main goal of this project it's to put into use the different skills that wwe have learned until that point in time, creating a web similar to [this one](https://personal-portfolio.freecodecamp.rocks).
 In my case I decided that I wanted to give an upgrade to the page, so it can be more responsive, and better for navigation in general. 
 
-For now it is in building stage, and I will upload commits on the progress of the website. You can check the progress of the website [here](https://portfolio-webpage-freecodecamp.onrender.com)
+You can check the progress of the website [here](https://portfolio-webpage-freecodecamp.onrender.com)
